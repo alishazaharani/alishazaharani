@@ -30,19 +30,10 @@
 
 ### 🛒 Superstore Sales Analysis
 **Tools:** Python, Power BI  
-
-- Cleaned and analyzed retail sales data (32K+ rows) to uncover trends in sales, profit, and regional performance.
-- Built an interactive **Power BI dashboard** with KPI cards, slicers, maps, and category analysis.
-- Delivered business-focused insights to support data-driven decision making.
-
 🔗 Repository: https://github.com/alishazaharani/Superstore-sales-analysis.git
 
 ### 🏔️ Himalayan Expeditions Analysis (Mini Course Project RevoU)
 **Tools:** Google Sheets, Looker Studio
-
-- Cleaned and prepared Himalayan expedition data (11K+ rows) using spreadsheet tools, including standardizing seasons, host countries, and date fields.
-- Built an interactive Looker Studio dashboard featuring KPI cards, bar charts, time-series analysis, donut charts, and dynamic filters (season, year, host country).
-- Analyzed geographic, seasonal, and temporal patterns to highlight dominant host countries, peak expedition seasons, and long-term expedition trends.
 
 🔗 Repository: https://github.com/alishazaharani/Himalayan-expeditions-analysis.git
 
