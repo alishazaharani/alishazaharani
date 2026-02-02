@@ -2,7 +2,7 @@
 
 ## About Me!
 - Final-year **Information Systems student** with a strong interest in **Data Analytics and Business Intelligence**.
-- Hands-on experience in **data cleaning, analysis, and visualization** using Python and Power BI.
+- Hands-on experience in **data cleaning, analysis, and visualization**.
 - Passionate about turning raw data into **actionable business insights**.
 
 ---
@@ -37,10 +37,19 @@
 
 🔗 Repository: https://github.com/alishazaharani/Superstore-sales-analysis.git
 
+### 🏔️ Himalayan Expeditions Analysis (Mini Course Project RevoU)
+**Tools:** Google Sheets, Looker Studio
+
+- Cleaned and prepared Himalayan expedition data (11K+ rows) using spreadsheet tools, including standardizing seasons, host countries, and date fields.
+- Built an interactive Looker Studio dashboard featuring KPI cards, bar charts, time-series analysis, donut charts, and dynamic filters (season, year, host country).
+- Analyzed geographic, seasonal, and temporal patterns to highlight dominant host countries, peak expedition seasons, and long-term expedition trends.
+
+🔗 Repository: https://github.com/alishazaharani/Himalayan-expeditions-analysis.git
+
 ---
 
 ## 🎓 Education
-- **S.Kom. Information Systems** — *5th Semester*
+- UAG University **(S.Kom. Information Systems)** — *5th Semester*
 - Relevant Coursework: Data Analytics, Database Systems, Business Intelligence, UI/UX Fundamentals
 
 ---
