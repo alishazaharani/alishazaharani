@@ -55,7 +55,7 @@
 ---
 
 ## 🎓 Education
-- Ary Ginanjar University **(S.Kom. Information Systems)** — *5th Semester*
+- Ary Ginanjar University **(S.Kom. Information Systems)** — *6th Semester*
 - Relevant Coursework: Data Analytics, Database Systems, Business Intelligence, UI/UX Fundamentals
 
 ---
