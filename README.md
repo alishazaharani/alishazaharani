@@ -37,6 +37,11 @@
 
 🔗 Repository: https://github.com/alishazaharani/Himalayan-expeditions-analysis.git
 
+### 📊 Sales Data Analysis using SQL
+**Tools:** PostgreSQL, SQL, Spreadsheet 
+
+🔗 Repository: https://github.com/alishazaharani/sql-data-analysis-project.git
+
 ---
 
 ## 🎓 Education
