@@ -42,6 +42,11 @@
 
 🔗 Repository: https://github.com/alishazaharani/sql-data-analysis-project.git
 
+### 📊 Jennie Merch Sales Analysis
+**Tools:** PostgreSQL, SQL, Spreadsheet
+
+🔗 Repository: https://github.com/alishazaharani/Jennie-merch-sales-analysis.git
+
 ---
 
 ## 🎓 Education
