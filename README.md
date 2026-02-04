@@ -1,7 +1,7 @@
 # 📊Alisha Zaharani - Data Analyst & BI
 
 ## About Me!
-- Final-year **Information Systems student** with a strong interest in **Data Analytics and Business Intelligence**.
+- Information Systems student with a strong interest in **Data Analytics** and **Business Intelligence.**
 - Hands-on experience in **data cleaning, analysis, and visualization**.
 - Passionate about turning raw data into **actionable business insights**.
 
