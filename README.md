@@ -47,10 +47,15 @@
 
 🔗 Repository: https://github.com/alishazaharani/Jennie-merch-sales-analysis.git
 
+### 🦖 Dino Insights – Dinosaur Data Exploration & Visualization 
+**Tools:** Python, Power BI, DAX
+
+🔗 Repository: https://github.com/alishazaharani/dinosaur-analytics.git
+
 ---
 
 ## 🎓 Education
-- UAG University **(S.Kom. Information Systems)** — *5th Semester*
+- Ary Ginanjar University **(S.Kom. Information Systems)** — *5th Semester*
 - Relevant Coursework: Data Analytics, Database Systems, Business Intelligence, UI/UX Fundamentals
 
 ---
